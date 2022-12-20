@@ -1,0 +1,15 @@
+/Users/kuzmalebedev/Desktop/Seminar 2 Homework/Task15/bin/Debug/net6.0/Task15
+/Users/kuzmalebedev/Desktop/Seminar 2 Homework/Task15/bin/Debug/net6.0/Task15.deps.json
+/Users/kuzmalebedev/Desktop/Seminar 2 Homework/Task15/bin/Debug/net6.0/Task15.runtimeconfig.json
+/Users/kuzmalebedev/Desktop/Seminar 2 Homework/Task15/bin/Debug/net6.0/Task15.dll
+/Users/kuzmalebedev/Desktop/Seminar 2 Homework/Task15/bin/Debug/net6.0/Task15.pdb
+/Users/kuzmalebedev/Desktop/Seminar 2 Homework/Task15/obj/Debug/net6.0/Task15.csproj.AssemblyReference.cache
+/Users/kuzmalebedev/Desktop/Seminar 2 Homework/Task15/obj/Debug/net6.0/Task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kuzmalebedev/Desktop/Seminar 2 Homework/Task15/obj/Debug/net6.0/Task15.AssemblyInfoInputs.cache
+/Users/kuzmalebedev/Desktop/Seminar 2 Homework/Task15/obj/Debug/net6.0/Task15.AssemblyInfo.cs
+/Users/kuzmalebedev/Desktop/Seminar 2 Homework/Task15/obj/Debug/net6.0/Task15.csproj.CoreCompileInputs.cache
+/Users/kuzmalebedev/Desktop/Seminar 2 Homework/Task15/obj/Debug/net6.0/Task15.dll
+/Users/kuzmalebedev/Desktop/Seminar 2 Homework/Task15/obj/Debug/net6.0/refint/Task15.dll
+/Users/kuzmalebedev/Desktop/Seminar 2 Homework/Task15/obj/Debug/net6.0/Task15.pdb
+/Users/kuzmalebedev/Desktop/Seminar 2 Homework/Task15/obj/Debug/net6.0/Task15.genruntimeconfig.cache
+/Users/kuzmalebedev/Desktop/Seminar 2 Homework/Task15/obj/Debug/net6.0/ref/Task15.dll
